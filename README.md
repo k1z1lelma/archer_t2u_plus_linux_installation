@@ -20,7 +20,7 @@ This adapter has RTL8821AU chipset. The biggest feature of this chipset is that 
 * `sudo apt upgrade`
 * `apt dist-upgrade`
 3) Reboot the system
-* `reboot`
+* `sudo reboot`
 4) Install dkms
 * `sudo apt install dkms`
 5) Install Build Dependencies
